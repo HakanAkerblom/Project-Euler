@@ -1,2 +1,2 @@
 # Project-Euler
-Lösta uppgifter på Project Euler
+Solved problem on Project Euler
